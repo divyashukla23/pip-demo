@@ -1,5 +1,4 @@
-# 🚀 Python + pip Project Demo (Beginner Friendly | DevOps Focus)
-
+# 🚀 Python + pip Project Demo
 This guide will help you create, manage dependencies, and run a simple Python application using **pip**.
 
 ---
